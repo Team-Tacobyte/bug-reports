@@ -3,3 +3,6 @@ If you find a bug on the website please submit an issue including screen shots o
 
 
 [Click here to report a bug](https://github.com/Team-Tacobyte/bug-reports/issues/new)
+
+
+#UNSUPPORTED REPORTS
